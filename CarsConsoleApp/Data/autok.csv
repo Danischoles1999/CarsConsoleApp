@@ -1,0 +1,40 @@
+minimal car,,350
+,wheel normal,4
+,car body cheap,1
+,window cleaner,3
+,steering wheel,1
+,window,6
+,light,4
+,motor 1.2l,1
+,,
+medium car,,500
+,wheel normal,4
+,car body normal,1
+,window cleaner,3
+,steering wheel,1
+,window,6
+,light,4
+,motor 1.6l,1
+,seat heating,2
+,,
+premium car,,700
+,wheel premium,4
+,car body premium,1
+,window cleaner,3
+,steering wheel,1
+,window,6
+,light,4
+,motor 2.2l,1
+,seat heating,6
+,parking assistant,1
+,,
+cabrio car,,570
+,wheel premium,4
+,car body premium,1
+,window cleaner,2
+,steering wheel,1
+,window,2
+,light,4
+,motor 2.2l,1
+,seat heating,2
+,parking assistant,1
